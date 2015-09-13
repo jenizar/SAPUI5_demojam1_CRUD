@@ -1,0 +1,27 @@
+{
+    "success": "true",
+    "msg": "",
+    "data": [
+        {
+            "mandt": "",
+            "email": "jenizar@example.com",
+            "firstname": "John Eswin",
+            "lastname": "Nizar",
+            "phone": "98765432"
+        },
+        {
+            "mandt": "",
+            "email": "jenizar@test.com",
+            "firstname": "John",
+            "lastname": "Nizar",
+            "phone": "84579374"
+        },
+        {
+            "mandt": "",
+            "email": "jenizar@domain.com",
+            "firstname": "John",
+            "lastname": "Eswin Nizar",
+            "phone": "12345678"
+        }
+    ]
+}
